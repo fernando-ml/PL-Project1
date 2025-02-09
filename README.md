@@ -4,7 +4,7 @@ Our project implements a procedural and object-oriented approach to parsing and 
 
 ## Requirements
 - Rust (latest stable version)
-- Python 3.7+
+- Python 3.X+
 - Cargo (comes with Rust)
 
 ## How to run
@@ -20,4 +20,13 @@ cargo run -- ../data/JSONPlain.txt
 ```
 cd ObjectOrientedApp
 python solar_system.py ../data/JSONPlain.txt
+```
+### Trying it with a different JSON file
+- For the Rust program:
+```
+cargo run -- ../data/<your_json_file>.txt
+```
+- For the Python program:
+```
+python solar_system.py ../data/<your_json_file>.txt
 ```
