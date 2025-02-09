@@ -2,6 +2,16 @@
 
 Our project implements a procedural and object-oriented approach to parsing and processing a JSON file containing information about a solar system.
 
+## Student Information
+- Name: Fernando Martinez
+
+## Project Structure
+- `ProceduralApp`: Rust program
+- `ObjectOrientedApp`: Python program
+- `data`: JSON files
+
+
+
 ## Requirements
 - Rust (latest stable version)
 - Python 3.X+
